@@ -1,7 +1,5 @@
 # AgriPlanner - Weather-Based Crop Planning Assistant
 
-![Project Banner](public/globe.svg)
-
 > **Project ID:** AD010 | **Domain:** Agriculture
 
 AgriPlanner is a comprehensive agricultural planning suite designed to help farmers make data-driven decisions. By leveraging real-time weather analysis, AI-powered crop recommendations, and risk forecasting, AgriPlanner ensures optimal yields and reduced agricultural risks.
